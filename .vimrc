@@ -3,3 +3,6 @@ let &tabstop=$tabsize
 let &shiftwidth=$tabsize
 let &softtabstop=$tabsize
 set expandtab
+set autoindent
+:set background=dark
+set smarttab
